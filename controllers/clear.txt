@@ -1,0 +1,13 @@
+ Folder //controller
+   //authentication
+   (req,res)
+   usercontroller.js
+   Const User =require('../Model/userModel')
+folder //model
+    //schema
+    collections
+    userModel.js
+folder //routes
+    /getUser
+    endpoints
+    userRoutes.js
